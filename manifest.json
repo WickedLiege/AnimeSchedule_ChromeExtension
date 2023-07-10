@@ -1,0 +1,11 @@
+{
+    "name": "Anime Schedule",
+    "version": "1.0.0",
+    "description": "Best extension in the world",
+    "manifest_version": 1,
+    "author": "Pranav",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Anime Schedule"
+    }
+}
