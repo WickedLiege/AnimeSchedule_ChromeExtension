@@ -1,1 +1,3 @@
 # AnimeSchedule_ChromeExtension
+
+I successfully designed and developed a highly functional Chrome extension named "Anime Tracker" using HTML, CSS, and JavaScript. "Anime Tracker" offers users the ability to explore trending anime and stay updated with the latest releases through its comprehensive schedule. The extension features an intuitive and visually appealing user interface, creating an immersive experience for anime enthusiasts. Leveraging JavaScript, I implemented a data fetching and parsing mechanism, guaranteeing real-time updates of trending anime and accurate scheduling within the extension.
